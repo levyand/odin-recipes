@@ -1,0 +1,50 @@
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: bisque;
+}
+
+.page-title {
+  font-size: 42px;
+  font-weight: 700;
+  color: rgb(116, 32, 32);
+}
+
+.nav {
+  color: rgb(19, 82, 19);
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.nav-item a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.subtitle {
+  font-size: 36px;
+  font-weight: 500;
+  color: rgb(116, 32, 32);
+}
+
+.image {
+  height: auto;
+  width: 300px;
+}
+
+.description {
+  font-size: 20px;
+  font-style: italic;
+  color: black;
+}
+
+.ingredients {
+  font-size: 20px;
+  color: black;
+}
+
+.steps {
+  font-size: 20px;
+  color: black;
+}
+
+.item {}
